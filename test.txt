@@ -8,5 +8,12 @@ git
 (edit) ekstra git
 one more
 
+hello
+hello
+hello
+
+
+work work work 
+
 
 my name is simon
