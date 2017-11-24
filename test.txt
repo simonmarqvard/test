@@ -7,3 +7,6 @@ side git
 git
 (edit) ekstra git
 one more
+
+
+my name is simon
