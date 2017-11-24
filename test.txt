@@ -6,4 +6,6 @@ git
 side git
 git
 (edit) ekstra git
+
+dk dkdk dkd kdk dkd kd
 one more
